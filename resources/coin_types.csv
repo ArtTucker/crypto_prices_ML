@@ -1,24 +1,24 @@
-Name,Symbol
-Aave,AAVE
-Binance Coin,BNB
-Bitcoin,BTC
-Cardano,ADA
-Chainlink,LINK
-Cosmos,ATOM
-Crypto.com Coin,CRO
-Dogecoin,DOGE
-EOS,EOS
-Ethereum,ETH
-Iota,MIOTA
-Litecoin,LTC
-Monero,XMR
-NEM,XEM
-Polkadot,DOT
-Solana,SOL
-Stellar,XLM
-Tether,USDT
-Tron,TRX
-Uniswap,UNI
-USD Coin,USDC
-Wrapped Bitcoin,WBTC
-XRP,XRP
+Name,Symbol,Platform_Network,Consensus_Algo,Staking,Lend_Borrow
+Aave,AAVE,ethereum,none,none,yes
+Binance Coin,BNB,,,,
+Bitcoin,BTC,,,,
+Cardano,ADA,,,,
+Chainlink,LINK,,,,
+Cosmos,ATOM,,,,
+Crypto.com Coin,CRO,,,,
+Dogecoin,DOGE,,,,
+EOS,EOS,,,,
+Ethereum,ETH,,,,
+Iota,MIOTA,,,,
+Litecoin,LTC,,,,
+Monero,XMR,,,,
+NEM,XEM,,,,
+Polkadot,DOT,,,,
+Solana,SOL,,,,
+Stellar,XLM,,,,
+Tether,USDT,,,,
+Tron,TRX,,,,
+Uniswap,UNI,,,,
+USD Coin,USDC,,,,
+Wrapped Bitcoin,WBTC,,,,
+XRP,XRP,,,,
