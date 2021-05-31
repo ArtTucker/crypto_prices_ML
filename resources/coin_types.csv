@@ -1,24 +1,24 @@
-Name,Symbol,Platform_Network,Consensus_Algo,Staking,Lend_Borrow
-Aave,AAVE,ethereum,none,none,yes
-Binance Coin,BNB,,,,
-Bitcoin,BTC,,,,
-Cardano,ADA,,,,
-Chainlink,LINK,,,,
-Cosmos,ATOM,,,,
-Crypto.com Coin,CRO,,,,
-Dogecoin,DOGE,,,,
-EOS,EOS,,,,
-Ethereum,ETH,,,,
-Iota,MIOTA,,,,
-Litecoin,LTC,,,,
-Monero,XMR,,,,
-NEM,XEM,,,,
-Polkadot,DOT,,,,
-Solana,SOL,,,,
-Stellar,XLM,,,,
-Tether,USDT,,,,
-Tron,TRX,,,,
-Uniswap,UNI,,,,
-USD Coin,USDC,,,,
-Wrapped Bitcoin,WBTC,,,,
-XRP,XRP,,,,
+Name,Symbol,Platform_Network,Consensus_Algo,Staking,Lend_Borrow,Smart_Contracts,Stablecoin
+Aave,AAVE,ethereum,none,no,yes,yes,no
+Binance Coin,BNB,binance,none,no,no,no,no
+Bitcoin,BTC,bitcoin,PoW,no,no,no,no
+Cardano,ADA,binance,PoS,yes,no,yes,
+Chainlink,LINK,polkadot,none,no,no,yes,
+Cosmos,ATOM,binance,none,yes,no,no,
+Crypto.com Coin,CRO,cosmos,none,no,no,no,
+Dogecoin,DOGE,dogecoin,PoW,no,no,no,
+EOS,EOS,binance,none,no,no,yes,
+Ethereum,ETH,ethereum,PoW,yes,no,yes,
+Iota,MIOTA,none,none,no,no,no,
+Litecoin,LTC,binance,PoW,no,no,no,
+Monero,XMR,none,PoW,no,no,no,
+NEM,XEM,none,PoI,no,no,yes,
+Polkadot,DOT,polkadot,none,yes,no,no,
+Solana,SOL,solana,PoS,no,no,no,
+Stellar,XLM,,SCP,,,yes,
+Tether,USDT,solana,PoW,,,,yes
+Tron,TRX,,,,,,
+Uniswap,UNI,,,,,,
+USD Coin,USDC,,,,,,yes
+Wrapped Bitcoin,WBTC,,,,,,
+XRP,XRP,,none,,,,
