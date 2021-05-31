@@ -1,0 +1,5 @@
+Consensus Algorithm data collected from:
+- [Bittrex Global](https://global.bittrex.com/discover/coins-tokens)
+- 
+
+Staking APR values collected from [Staking Rewards](https://www.stakingrewards.com/) at 6:55pm on May 30, 2021.
