@@ -1,24 +1,24 @@
-Name,Symbol,Platform_Network,Consensus_Algo,Staking,Lend_Borrow,Smart_Contracts,Stablecoin
-Aave,AAVE,ethereum,none,no,yes,yes,no
-Binance Coin,BNB,binance,none,no,no,no,no
-Bitcoin,BTC,bitcoin,PoW,no,no,no,no
-Cardano,ADA,binance,PoS,yes,no,yes,
-Chainlink,LINK,polkadot,none,no,no,yes,
-Cosmos,ATOM,binance,none,yes,no,no,
-Crypto.com Coin,CRO,cosmos,none,no,no,no,
-Dogecoin,DOGE,dogecoin,PoW,no,no,no,
-EOS,EOS,binance,none,no,no,yes,
-Ethereum,ETH,ethereum,PoW,yes,no,yes,
-Iota,MIOTA,none,none,no,no,no,
-Litecoin,LTC,binance,PoW,no,no,no,
-Monero,XMR,none,PoW,no,no,no,
-NEM,XEM,none,PoI,no,no,yes,
-Polkadot,DOT,polkadot,none,yes,no,no,
-Solana,SOL,solana,PoS,no,no,no,
-Stellar,XLM,,SCP,,,yes,
-Tether,USDT,solana,PoW,,,,yes
-Tron,TRX,,,,,,
-Uniswap,UNI,,,,,,
-USD Coin,USDC,,,,,,yes
-Wrapped Bitcoin,WBTC,,,,,,
-XRP,XRP,,none,,,,
+Name,Symbol,Platform_Network,Consensus_Algo,Staking,APR,Smart_Contracts,Stablecoin
+Aave,AAVE,ethereum,none,yes,0.0523,yes,no
+Binance Coin,BNB,binance_smart_chain,PoSA,yes,0.1804,no,no
+Bitcoin,BTC,bitcoin,PoW,no,0,no,no
+Cardano,ADA,binance_smart_chain,PoS,yes,0.0731,yes,
+Chainlink,LINK,polkadot,other,no,0,yes,
+Cosmos,ATOM,binance_smart_chain,PoS,yes,0.0895,no,
+Crypto.com Coin,CRO,cosmos,none,yes,0.1,no,
+Dogecoin,DOGE,dogecoin,PoW,no,0,no,
+EOS,EOS,binance,DPoS,yes,0.1941,yes,
+Ethereum,ETH,ethereum,PoW,yes,0.0673,yes,
+Iota,MIOTA,none,DAG,no,0,no,
+Litecoin,LTC,binance_smart_chain,PoW,no,0,no,
+Monero,XMR,none,PoW,no,0,no,
+NEM,XEM,none,PoI,yes,0.0704,yes,
+Polkadot,DOT,polkadot,NPoS,yes,0.1318,no,
+Solana,SOL,solana,PoS,yes,0.1032,no,
+Stellar,XLM,,SCP,yes,0.01,yes,
+Tether,USDT,,none,yes,0.0542,,yes
+Tron,TRX,,DPoS,yes,0.0297,,
+Uniswap,UNI,ethereum,PoS,no,0,,
+USD Coin,USDC,,none,yes,0.0549,,yes
+Wrapped Bitcoin,WBTC,ethereum,other,no,0,,
+XRP,XRP,,other,no,0,,
