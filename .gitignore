@@ -114,3 +114,4 @@ dmypy.json
 .pyre/
 .DS_Store
 archive.zip
+config.py
