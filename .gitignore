@@ -115,3 +115,4 @@ dmypy.json
 .DS_Store
 archive.zip
 config.py
+preprocessing/yahoo_error.html
